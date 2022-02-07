@@ -2,7 +2,8 @@
   "name": "sun-clothing",
   "version": "0.1.0",
   "engines": {
-    "node": "12.15.0"
+    "node": "12.15.0",
+    "npm": "8.4.1"
   },
   "proxy": "http://localhost:5000",
   "private": true,
